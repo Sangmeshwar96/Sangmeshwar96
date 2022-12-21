@@ -1,7 +1,16 @@
 
 
 # 💫 About Me:
-I'm currently learning C# SQL Tableau.<br>I also have good knowledge about Python, Python Libraries, Machine Learning, etc.
+
+💡 I’m learning C# .NET Full Stack Development at Bridgelabs solution.
+
+💡 I'm also having good knowledge about Python, SQL, Tsableau, Python Libraries, Machine Learning, etc.
+
+🛠 My skill sets are C# .NET, SQL, Python (Intermediate level with hands on experience).
+
+💬 Ask me about anything, I'll do my best to help you.
+
+📫 How to reach me patil.sangmeshwar4u@gmail.com
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
