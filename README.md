@@ -1,4 +1,6 @@
-https://user-images.githubusercontent.com/107973014/207383090-a318a012-4a43-463b-91b6-ca67ab71ac68.gif
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone! I'm Sangmeshwar Patil🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
 # 💫 About Me:
 
