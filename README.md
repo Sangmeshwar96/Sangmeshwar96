@@ -9,7 +9,7 @@
 
 💬 Ask me about anything, I'll do my best to help you.
 
-📫 How to reach me patil.sangmeshwar4u@gmail.com
+📫 How to reach me sangmeshwarp96@gmail.com
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
