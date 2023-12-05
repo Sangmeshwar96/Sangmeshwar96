@@ -1,13 +1,12 @@
 
 # 💫 About Me:
 
-💡 I’m learning C# .NET Full Stack Development at Bridgelabs solution.
+💡 I’m learning Data Science.
 
-💡 I'm also having good knowledge about Python, SQL, Tsableau, Python Libraries, Machine Learning, etc.
+💡 I'm also having good knowledge about Python, C#, VS Code, Tableau, Python Libraries, Machine Learning, etc.
 
-🛠 My skill sets are C# .NET, SQL, Python (Intermediate level with hands on experience).
+🛠 My skill sets are C# .NET, ADO.Net, HTML , CSS (Intermediate level with hands on experience).
 
-💬 Ask me about anything, I'll do my best to help you.
 
 📫 How to reach me sangmeshwarp96@gmail.com
 
