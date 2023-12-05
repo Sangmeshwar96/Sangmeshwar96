@@ -3,9 +3,9 @@
 
 💡 I’m learning Data Science.
 
-💡 I'm also having good knowledge about Python, C#, VS Code, Tableau, Python Libraries, Machine Learning, etc.
+💡 I'm also having good knowledge about SQL, Power BI, Python, Tableau, Python Libraries, Machine Learning, etc.
 
-🛠 My skill sets are C# .NET, ADO.Net, HTML , CSS (Intermediate level with hands on experience).
+🛠 My skill sets are C# .NET, ADO.Net, VS Code, HTML , CSS (Intermediate level with hands on experience).
 
 
 📫 How to reach me sangmeshwarp96@gmail.com
