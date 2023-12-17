@@ -1,11 +1,11 @@
 
 # 💫 About Me:
 
-💡 I’m learning Data Science.
+💡 I’m a Data Analyst Intern At GAMAKA AI, Pune.
 
-💡 I'm also having good knowledge about SQL, Power BI, Python, Tableau, Python Libraries, Machine Learning, etc.
+💡 I'm having good knowledge about SQL, Power BI, Python, Tableau, Python Libraries, Machine Learning, etc.
 
-🛠 My skill sets are C# .NET, ADO.Net, VS Code, HTML , CSS (Intermediate level with hands on experience).
+🛠 My other skill sets are C# .NET, ADO.Net, VS Code, HTML , CSS (Intermediate level with hands on experience).
 
 
 📫 How to reach me sangmeshwarp96@gmail.com
@@ -22,9 +22,10 @@
 
 # 💻 Tech Stack:
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
